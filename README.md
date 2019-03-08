@@ -10,6 +10,7 @@ Plug-in voor WordPress die maakt dat een website meer aan onze standaarden voldo
 - geautomatiseerde `robots.txt`;
 - geautomatiseerde `sitemap.xml`;
 - geautomatiseerde `manifest.json`;
+- geautomatiseerde *OpenSearch*;
 - metadata (`description` en `robots`) voor de hele site in kunnen stellen;
 - metadata (`description` en `robots`) per pagina in kunnen stellen;
 - microdata (*Schema*) voor de hele site in kunnen stellen;
