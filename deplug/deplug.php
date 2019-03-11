@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: dePlug
+ * Plugin URI: https://github.com/deidee/deplug
  * Description: Add Google Analytics, Open Graph, Twitter Cards, et al.
  * Version: 0.1
  * Author: deidee
