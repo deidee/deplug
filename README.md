@@ -1,4 +1,4 @@
-# ![deplug](https://deidee.com/logo.png?str=deplug)
+# ![deplug](https://deidee.com/logo.png?str=dePlug)
 
 Plug-in voor WordPress die maakt dat een website meer aan onze standaarden voldoet.
 
